@@ -4,7 +4,7 @@
 
 # Text-Mining
 
-##### Progetto per l'esame di Streaming Data Science Lab del corso di laurea magistrale in Data Science all'Università di Milano-Bicocca
+##### Progetto per l'esame di Text Mining and Search del corso di laurea magistrale in Data Science all'Università di Milano-Bicocca
 
 ## Abstract 
 
